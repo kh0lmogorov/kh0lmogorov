@@ -30,9 +30,11 @@
 
 ###
 
-- 🤖 **TEST** - soon
-- 💬 **TEST** - soon
-- ⚙️ **TEST** - soon
+- 🎬 **[YouTube Downloader Bot](https://github.com/kh0lmogorov/youtube-downloader-bot)** - Telegram-бот для скачивания видео с YouTube
+- 📹 **[Rutube Downloader Bot](https://github.com/kh0lmogorov/rutube-downloader-bot)** - Telegram-бот для скачивания видео с Rutube
+- 🎥 **[VK Downloader Bot](https://github.com/kh0lmogorov/vk-downloader-bot)** - Telegram-бот для скачивания видео из ВКонтакте
+- 📌 **[Pinterest Downloader Bot](https://github.com/kh0lmogorov/pinterest-downloader-bot)** - Telegram-бот для скачивания видео с Pinterest
+- ⚽️ **[AISportan Bot](https://github.com/kh0lmogorov/aisportan-bot)** - AI-бот для анализа ставок на спорт
 
 ###
 
